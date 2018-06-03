@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Other/Flip ','" />
+    <ignoreAction name="PHP/Convert array to traditional syntax" />
+  </component>
+</application>
